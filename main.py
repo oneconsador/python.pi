@@ -1,5 +1,5 @@
 #first
-
+#new
 print("Hello world")
 
 is_string = input("Enter a text: ")
